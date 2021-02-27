@@ -4,6 +4,8 @@ A Snake Game implementation for the PSP using [Love Wrapper](https://github.com/
 
 ## Installation
 
+Drop any ```EBOOT``` file into the root folder
+
 Drag the ```psp-snake``` folder into ```PSP/GAME/``` and execute it through the PSP Game Folder
 
 ## Notes
